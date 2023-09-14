@@ -5,7 +5,7 @@ import { FiGithub } from "react-icons/fi";
 
 import Html from "../../public/html.svg";
 import Css from "../../public/css.svg";
-import Js from "../../public/javascript.svg";
+import Js from "../../public/javaScript.svg";
 import React from "../../public/react.svg";
 import Tailwind from "../../public/tailwind.svg";
 
