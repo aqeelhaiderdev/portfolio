@@ -17,26 +17,11 @@ function Projects() {
             <ProBox
               title="omnifood"
               img={omnifood}
-              description="A car rental website is an online platform that allows users to
-              rent cars for personal or business use. The website provides an
-              interface for searching, comparing, and reserving cars."
+              description="Omnifood is a fictional company website focused on providing AI-based meals through a subscription service."
               techno1="html"
               techno2="vanila css"
-              code="#"
-              demo="#"
-            />
-
-            <ProBox
-              title="omnifood"
-              img={omnifood}
-              description="A car rental website is an online platform that allows users to
-              rent cars for personal or business use. The website provides an
-              interface for searching, comparing, and reserving cars."
-              techno1="html"
-              techno2="vanila css"
-              code="#"
-              demo="#"
-              cName="reverse"
+              code="https://github.com/aqeelhaiderdev/omnifood"
+              demo="https://omnifood-aqeel.netlify.app/"
             />
           </div>
         </div>
