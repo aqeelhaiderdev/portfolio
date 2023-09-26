@@ -20,7 +20,7 @@ function ProBox({
           ${cName === "reverse" ? "md:flex-row-reverse" : ""}`}
       >
         <div className="h-auto max-w-lg overflow-hidden rounded-2xl shadow-md">
-          <a href="#" target="_blank">
+          <a href={demo} rel="noreferrer" target="_blank">
             <img
               src={img}
               alt="project-image"
