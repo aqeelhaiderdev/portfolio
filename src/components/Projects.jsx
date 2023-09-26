@@ -1,5 +1,6 @@
 import ProBox from "./ProBox";
 import omnifood from "../../public/Projects-imgs/omnifood.png";
+import minimalMall from "../../public/Projects-imgs/minimal-mall.png";
 
 function Projects() {
   return (
@@ -14,6 +15,17 @@ function Projects() {
           </h3>
 
           <div className="flex flex-col gap-12">
+            <ProBox
+              title="MINIMAL MALL ECOMMERCE"
+              img={minimalMall}
+              description="With a focus on simplicity and clean design, this store prioritize user experience, making it easy for customers to find and purchase the products they need."
+              techno1="React"
+              techno2="Tailwind CSS"
+              code="https://github.com/aqeelhaiderdev/minimal-mall"
+              demo="https://minimal-mall.vercel.app/"
+              cName="reverse"
+            />
+
             <ProBox
               title="omnifood"
               img={omnifood}

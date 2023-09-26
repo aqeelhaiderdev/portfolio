@@ -35,7 +35,7 @@ function ProBox({
           </a>
         </div>
 
-        <div className="flex h-auto flex-col items-center justify-center pb-4 pt-8 text-center">
+        <div className="flex h-auto flex-col items-center justify-center px-2.5 pb-4 pt-8 text-center">
           <h3 className="mb-2.5 text-lg font-bold uppercase text-blackShade">
             {title}
           </h3>
